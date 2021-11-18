@@ -21,4 +21,3 @@ The link is on CurseForge.
 The code is under the MIT license.
 
 The assets are all under CC0, most from GregoriusT and some from us.
-
